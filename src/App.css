@@ -1,0 +1,23 @@
+body{
+  margin: 0 40%;
+  text-align: center;
+}
+
+p{
+  margin-left: 5px;
+}
+button{
+  
+  margin: 10px;
+}
+.btn-todo{
+  border-radius: 100px;
+  border: none;
+  background-color: white;
+}
+.complete{
+  background-color: green;
+}
+.not-complete{
+  background-color: red;
+}
